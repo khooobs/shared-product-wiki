@@ -101,6 +101,4 @@
 ## Khobs' Shared Product
 | | Name | GUID | ModID
 ---|---|---|---
-<img src="./icons/khobs/icon_slag.png" style="vertical-align: text-bottom;18px" width="32" /> | Slag | 2143505583 | `shared_goods_slag`
-<img src="./icons/khobs/icon_fabric.png" style="vertical-align: text-bottom;18px" width="32" /> | Fabric | 2143505621 | `shared_goods_fabric`
 <img src="./icons/khobs/icon_coke.png" style="vertical-align: text-bottom;18px" width="32" /> | Coke | tdb | `shared_goods_coke`
