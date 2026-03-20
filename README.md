@@ -102,3 +102,59 @@
 | | Name | GUID | ModID
 ---|---|---|---
 <img src="./icons/khobs/icon_coke.png" style="vertical-align: text-bottom;18px" width="32" /> | Coke | tdb | `shared_goods_coke`
+
+## New Horizon Team Shared Product
+| | Name | GUID | ModID
+---|---|---|---
+<img src="./icons/newhorizons/icon_algae.png" style="vertical-align: text-bottom;18px" width="32" /> | Algae | 1440212 | `algae-newhorizons`
+<img src="./icons/newhorizons/icon_car.png" style="vertical-align: text-bottom;18px" width="32" /> | Car | 1440023 | `cars-newhorizons`
+<img src="./icons/newhorizons/icon_durian.png" style="vertical-align: text-bottom;18px" width="32" /> | Durian | 1440307 | `durian-newhorizons`
+<img src="./icons/newhorizons/icon_incense.png" style="vertical-align: text-bottom;18px" width="32" /> | Incense | 1440306 | `incense-newhorizons`
+<img src="./icons/newhorizons/icon_jade.png" style="vertical-align: text-bottom;18px" width="32" /> | Jade | 1440304 | `jade-newhorizons`
+<img src="./icons/newhorizons/icon_noodles.png" style="vertical-align: text-bottom;18px" width="32" /> | Noodles | 1440238 | `noodles-newhorizons`
+<img src="./icons/newhorizons/icon_novels.png" style="vertical-align: text-bottom;18px" width="32" /> | Novels | 1440305 | `novels-newhorizons`
+<img src="./icons/newhorizons/icon_rice.png" style="vertical-align: text-bottom;18px" width="32" /> | Rice | 1440200 | `rice-newhorizons`
+<img src="./icons/newhorizons/icon_silver.png" style="vertical-align: text-bottom;18px" width="32" /> | Silver | 1957006151 | `silver-newhorizons`
+<img src="./icons/newhorizons/icon_tabulator.png" style="vertical-align: text-bottom;18px" width="32" /> | Tabulator | 1440021 | `tabulator-newhorizons`
+<img src="./icons/newhorizons/icon_tofu.png" style="vertical-align: text-bottom;18px" width="32" /> | Tofu | 1440239 | `tofu-newhorizons`
+<img src="./icons/newhorizons/icon_tungsten.png" style="vertical-align: text-bottom;18px" width="32" /> | Tungsten | 1440024 | `tungsten-newhorizons`
+<img src="./icons/newhorizons/icon_whiskey.png" style="vertical-align: text-bottom;18px" width="32" /> | Whiskey | 1440022 | `whiskey-newhorizons`
+<img src="./icons/newhorizons/icon_radio.png" style="vertical-align: text-bottom;18px" width="32" /> | Radio | 1440004 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_pen.png" style="vertical-align: text-bottom;18px" width="32" /> | Pens | 1440007 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_crystals.png" style="vertical-align: text-bottom;18px" width="32" /> | Crystal Detectors | 1440010 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_cheese.png" style="vertical-align: text-bottom;18px" width="32" /> | Cheese | 1440014 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_luxury_food.png" style="vertical-align: text-bottom;18px" width="32" /> | Luxury Food | 1440016 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_peppercorn.png" style="vertical-align: text-bottom;18px" width="32" /> | Peppercorn | 1440017 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_pepper.png" style="vertical-align: text-bottom;18px" width="32" /> | Black Pepper | 1440018 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_caviar.png" style="vertical-align: text-bottom;18px" width="32" /> | Caviar | 1440019 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_pen_nibs.png" style="vertical-align: text-bottom;18px" width="32" /> | Pen Nibs | 1440020 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_sushi.png" style="vertical-align: text-bottom;18px" width="32" /> | Sushi | 1440213 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_ume.png" style="vertical-align: text-bottom;18px" width="32" /> | Ume | 1440201 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_tea.png" style="vertical-align: text-bottom;18px" width="32" /> | Tea Herbs | 1440202 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_caolin.png" style="vertical-align: text-bottom;18px" width="32" /> | Caolin | 1440204 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_feld_spar.png" style="vertical-align: text-bottom;18px" width="32" /> | Feld Spar | 1440205 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_porcelain.png" style="vertical-align: text-bottom;18px" width="32" /> | Porcelain | 1440206 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_silk.png" style="vertical-align: text-bottom;18px" width="32" /> | Silk | 1440207 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_sake.png" style="vertical-align: text-bottom;18px" width="32" /> | Sake | 1440216 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_duck.png" style="vertical-align: text-bottom;18px" width="32" /> | Duck | 1440217 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_peking_duck.png" style="vertical-align: text-bottom;18px" width="32" /> | Peking Duck | 1440219 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_umeshu.png" style="vertical-align: text-bottom;18px" width="32" /> | Umeshu | 1440220 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_iridium.png" style="vertical-align: text-bottom;18px" width="32" /> | Iridium | 1440221 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_soy.png" style="vertical-align: text-bottom;18px" width="32" /> | Soy | 1440223 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_jimbei.png" style="vertical-align: text-bottom;18px" width="32" /> | Jimbei | 1440225 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_sturgeon.png" style="vertical-align: text-bottom;18px" width="32" /> | Sturgeon | 1440226 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_koto.png" style="vertical-align: text-bottom;18px" width="32" /> | Koto Instruments | 1440229 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_silk_vests.png" style="vertical-align: text-bottom;18px" width="32" /> | Silk Vests | 1440232 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_bamboo.png" style="vertical-align: text-bottom;18px" width="32" /> | Bamboo | 1440233 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_bamboo_lattice.png" style="vertical-align: text-bottom;18px" width="32" /> | Clay Plastering | 1440234 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_conical_hat.png" style="vertical-align: text-bottom;18px" width="32" /> | Conical Hats | 1440235 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_soy_sauce.png" style="vertical-align: text-bottom;18px" width="32" /> | Soy Sauce | 1440236 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_natural_stone.png" style="vertical-align: text-bottom;18px" width="32" /> | Natural Brick | 1440237 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_special_shroom.png" style="vertical-align: text-bottom;18px" width="32" /> | Noble Mushroom | 1440300 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_koji.png" style="vertical-align: text-bottom;18px" width="32" /> | Koji | 1440303 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_medicine.png" style="vertical-align: text-bottom;18px" width="32" /> | Medicine | 1440500 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_valued_shipment.png" style="vertical-align: text-bottom;18px" width="32" /> | Valuables | 1440501 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_alcohol.png" style="vertical-align: text-bottom;18px" width="32" /> | Alcohol | 1440502 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_luxury.png" style="vertical-align: text-bottom;18px" width="32" /> | Luxury | 1440503 | `new_horizons_products`
+<img src="./icons/newhorizons/icon_weapons.png" style="vertical-align: text-bottom;18px" width="32" /> | Weapons | 1440504 | `new_horizons_products`
+
