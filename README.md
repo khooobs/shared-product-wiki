@@ -101,7 +101,12 @@
 ## Khobs' Shared Product
 | | Name | GUID | ModID
 ---|---|---|---
-<img src="./icons/khobs/icon_coke.png" style="vertical-align: text-bottom;18px" width="32" /> | Coke | tdb | `shared_goods_coke`
+<img src="./icons/khobs/icon_iron_bar.png" style="vertical-align: text-bottom;18px" width="32" /> | Iron | 2143506000 | `shared_goods_iron`
+
+## muggenstuermer' Shared Product
+| | Name | GUID | ModID
+---|---|---|---
+<img src="./icons/muggenstuermer/icon_coke.png" style="vertical-align: text-bottom;18px" width="32" /> | Coke | 1337505241 | `shared_goods_coke`
 
 ## New Horizon Team Shared Product
 | | Name | GUID | ModID
